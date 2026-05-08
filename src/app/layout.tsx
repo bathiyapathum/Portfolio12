@@ -14,10 +14,10 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Bathiya Pathum",
-  description: "Portfolio of Bathiya Pathum",
+  title: "Salini Herath",
+  description: "Portfolio of Salini Herath",
   icons: {
-    icon: "/dp.svg",
+    icon: "/dp.jpg",
   },
 };
 
