@@ -1,7 +1,7 @@
 "use client";
 // import laptop from "../assets/dp.svg";
-// import laptop from "../assets/dp.png";
-import laptop from "../assets/dp.PNG";
+import laptop from "../assets/dp.png";
+// import laptop from "../assets/dp.PNG";
 
 import Image from "next/image";
 import { HeroHighlightDemo } from "./Herohighlight";
